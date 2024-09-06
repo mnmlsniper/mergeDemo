@@ -1,5 +1,1 @@
-# mergeDemo
-
-
-Это мои правки
-А это мои правки
+# mergeDemo is cool
